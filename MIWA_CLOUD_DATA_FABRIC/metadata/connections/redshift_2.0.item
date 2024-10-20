@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TalendMetadata:DatabaseConnection xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmi:id="_zP_ycI8xEe-ReOC9kyhcbA" name="redshift" id="_G4OywI8xEe-ReOC9kyhcbA" label="redshift" DatabaseType="Redshift" DriverClass="com.amazon.redshift.jdbc42.Driver" URL="jdbc:redshift://qmi-6711a9867190135340a2c150.cgraoj3rxnr7.ap-southeast-1.redshift.amazonaws.com:5439/qmi_rs_db?" Port="5439" Username="qmiuser" Password="enc:system.encryption.key.v1:VtliMrthV9aF8Ofp9S1/SJQE8vG6V3WeyFC1dPQyTeFOlc7zn+gQWOZr2lA=" ServerName="qmi-6711a9867190135340a2c150.cgraoj3rxnr7.ap-southeast-1.redshift.amazonaws.com" DatasourceName="" FileFieldName="" SID="qmi_rs_db" SqlSynthax="" StringQuote="" NullChar="" DbmsId="redshift_id" ProductId="REDSHIFT" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="public" supportNLS="false">
+  <taggedValue xmi:id="_zQAZgI8xEe-ReOC9kyhcbA" tag="Is Conn Need Reload" value="false"/>
+  <taggedValue xmi:id="_zQVwsI8xEe-ReOC9kyhcbA" tag="package filter" value=""/>
+  <taggedValue xmi:id="_zQfhsI8xEe-ReOC9kyhcbA" tag="Status" value=""/>
+  <taggedValue xmi:id="_zQfhsY8xEe-ReOC9kyhcbA" tag="Version" value="0.1"/>
+  <taggedValue xmi:id="_zQfhso8xEe-ReOC9kyhcbA" tag="Purpose" value=""/>
+  <taggedValue xmi:id="_zQfhs48xEe-ReOC9kyhcbA" tag="Description" value=""/>
+  <taggedValue xmi:id="_zQfhtI8xEe-ReOC9kyhcbA" tag="Author" value=""/>
+  <taggedValue xmi:id="_zQfhtY8xEe-ReOC9kyhcbA" tag="otherParameter"/>
+  <parameters xmi:id="_zQAZgY8xEe-ReOC9kyhcbA" key="CONN_PARA_KEY_USERNAME" value="qmiuser"/>
+  <parameters xmi:id="_zQAZgo8xEe-ReOC9kyhcbA" key="CONN_PARA_KEY_REDSHIFT_STRINGPARA" value="false"/>
+  <parameters xmi:id="_zQAZg48xEe-ReOC9kyhcbA" key="CONN_PARA_KEY_REDSHIFT_DRIVER" value="DRIVER_V2"/>
+</TalendMetadata:DatabaseConnection>
